@@ -34,6 +34,6 @@ public class Main2Activity extends AppCompatActivity {
         FirebaseFirestore ref=FirebaseFirestore.getInstance();
         ref.collection("User")
                 .document(id)
-                .set(data); ``
+                .set(data); 
     }
 }
