@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "790874447626",
+    "firebase_url": "https://fir-con-40eaf.firebaseio.com",
+    "project_id": "fir-con-40eaf",
+    "storage_bucket": "fir-con-40eaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790874447626:android:7eee9c2131f26ec9",
+        "android_client_info": {
+          "package_name": "pillminder.example.com.firebase_connectivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790874447626-4f1mmmmhrq83fdva259sd4te96koafnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe1GsFXCMQq81DevzZzCuUfe8hMpJ1e6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790874447626-4f1mmmmhrq83fdva259sd4te96koafnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
